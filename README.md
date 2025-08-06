@@ -1,5 +1,5 @@
 # �� Hi there, I&#39;Chandrashekhar K!- �� I’m passionate about Full Stack Development
-Cybersecurity- �� Currently learning: full stack using java, MongoDB, and GitHub Actions
+�� Currently learning: full stack using java, MongoDB, and GitHub Actions
 �� Fun Fact: I once debugged a 50-line error just by adding a semicolon
 ## ��️ Skills &amp; Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-
