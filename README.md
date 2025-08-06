@@ -10,4 +10,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhar2161&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar2161&amp;layout=compact)
 ![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=java&label=java&color=green)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=java&label=MongoDB&color=red)
+
 
