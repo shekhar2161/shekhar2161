@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhar2161&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar2161&layout=compact)
 ## 📫 Connect with Me- ✉️ Email:kongarichandrashekhar21@gmail.com
-🔗 LinkedIn: [chandu Profile](https://linkedin.com/in/shekhar-example)
+##🔗 LinkedIn: [chandu Profile](https://linkedin.com/in/shekhar-example)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhar2161&show_icons=true)
 
 
