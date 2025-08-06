@@ -9,6 +9,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar2161&layout=compact)
 ## 📫 Connect with Me- ✉️ Email:kongarichandrashekhar21@gmail.com🔗 LinkedIn: [chandu Profile](https://linkedin.com/in/shekhar-example)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhar2161&show_icons=true)
-![HI](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=java&label=MongoDB&color=red)
-
 
